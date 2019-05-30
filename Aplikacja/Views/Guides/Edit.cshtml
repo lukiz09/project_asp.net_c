@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm("Update", "Guides", FormMethod.Post, new { enctype="multipart/form-data" }))
+{
+    Html.RenderPartial("_GuideForm");
+}

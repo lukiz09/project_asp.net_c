@@ -1,0 +1,21 @@
+﻿@model Aplikacja.Models.Opinion
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<p>
+    Czy na pewno chcesz usunąć swoja opinię ?
+</p>
+<ul>
+    <li>Treść: @Model.Body</li>
+</ul>
+
+@using (Html.BeginForm("OpinionDelete", "Opinions", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.Id)
+    <input type="submit" class="btn btn-danger" value="Tak" />
+    @Html.ActionLink("Nie", "Show")
+}

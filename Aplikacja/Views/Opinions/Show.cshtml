@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Aplikacja.Models.Opinion>
+
+@{
+    ViewBag.Title = "Opinions";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <div class="jumbotron jumbotron-sm">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-lg-12">
+                    <center>
+                        <h1 class="h1">
+                            Opinie
+                        </h1>
+                    </center>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <center><h3>Chcesz dodać swoją opinię @Html.ActionLink("Kliknij", "New", "Opinions")</h3></center>
+
+@foreach (var opinion in Model)
+{
+    <div class="container">
+        <div class="jumbotron">
+            <h2>@opinion.AuthName @opinion.EnrollmentDate</h2>
+            <p>
+                @opinion.Body
+            </p>
+            @Html.ActionLink("Usuń", "Delete", new { id = opinion.Id })
+        </div>
+    </div>
+}

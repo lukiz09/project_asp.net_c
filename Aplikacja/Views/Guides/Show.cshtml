@@ -1,0 +1,40 @@
+﻿@model Aplikacja.Models.Guide
+@{
+    ViewBag.Title = "Show";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{ var imagePath = "";//utworzenie zmiennej zawierającej ścieżkę do pliku
+    if (@Html.DisplayFor(m => m.Filename) != null)
+    {
+        imagePath = @"/UploadedFiles/" + @Html.DisplayFor(m => m.Filename);
+    }
+}
+<h2></h2>
+<div class="container">
+    <div class="jumbotron">
+        <img src=@imagePath class="img-rounded img-fluid container" alt=@Html.DisplayFor(m => m.Title)>
+        <div class="text-center"><h1>@Html.DisplayFor(m => m.Title)</h1></div><!--Wyświetlenie tytyłu poradnika-->
+    </div>
+</div>
+
+<div>@Html.DisplayFor(m => m.Body)</div><!--Wyświetlenie treści poradnika-->
+
+<hr />
+<div>
+    <!--Wyświetlenie kolejno: nazwy autora, kategorii, daty-->
+    <b>@Html.DisplayFor(m => m.AuthName)</b>,
+    Kategoria: @Html.DisplayFor(m => m.Category),
+    Utworzono: @Html.DisplayFor(m => m.EnrollmentDate)
+    @Html.ActionLink("Edytuj", "Edit", new { id = @Html.DisplayFor(m => m.Id) })<!--Link do edycji-->
+    @Html.ActionLink("Usuń", "Delete", new { id = @Html.DisplayFor(m => m.Id) })<!--Link do usunięcia-->
+    @Html.ActionLink("Drukuj", "Print", new { PrintId = @Html.DisplayFor(m => m.Id) })<!--Link do druku pdf-->
+    @{ var FbPath = "";<!--utworzenie zmienne ze ścieżką dla share-->
+        if (@Html.DisplayFor(m => m.Id) != null)
+        {
+            FbPath = @"https://localhost:44359/Guides/Show/" + @Html.DisplayFor(m => m.Id);
+        }
+    }
+
+    <div class="fb-share-button" data-href=@FbPath data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flocalhost%3A44359%2FGuides%2FShow%2F8&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Udostępnij</a></div>
+</div>
+

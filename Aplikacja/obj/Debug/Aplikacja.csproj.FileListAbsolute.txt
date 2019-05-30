@@ -1,0 +1,746 @@
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Aplikacja.dll.config
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Aplikacja.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Aplikacja.pdb
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\csc.exe
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\csc.exe.config
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\csc.rsp
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\csi.exe
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\csi.exe.config
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\csi.rsp
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.AppContext.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Console.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.IO.Compression.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.IO.Pipes.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Security.Claims.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.ValueTuple.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\vbc.exe
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\vbc.exe.config
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\vbc.rsp
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\VBCSCompiler.exe
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Antlr3.Runtime.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\EntityFramework.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Newtonsoft.Json.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Owin.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.Helpers.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.Mvc.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.Optimization.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.Razor.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.WebPages.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.WebPages.Razor.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\WebGrease.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.Helpers.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.Mvc.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.Optimization.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.Razor.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.WebPages.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\System.Web.WebPages.Razor.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Newtonsoft.Json.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Antlr3.Runtime.pdb
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\EntityFramework.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\pl\System.Web.Razor.resources.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\obj\Debug\Aplikacja.dll
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Migrations.AddGuidesTable.resources
+C:\Users\adria\Desktop\Programowanie\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Aplikacja.dll.config
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Aplikacja.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Aplikacja.pdb
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\csc.exe
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\csc.exe.config
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\csc.rsp
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\csi.exe
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\csi.exe.config
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\csi.rsp
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.AppContext.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Console.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.IO.Compression.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.IO.Pipes.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Security.Claims.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.ValueTuple.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\vbc.exe
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\vbc.exe.config
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\vbc.rsp
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\VBCSCompiler.exe
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Antlr3.Runtime.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\EntityFramework.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Newtonsoft.Json.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Owin.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Rotativa.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.Helpers.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.Mvc.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.Optimization.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.Razor.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.WebPages.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.WebPages.Razor.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\WebGrease.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.Helpers.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.Mvc.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.Optimization.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.Razor.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.WebPages.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Web.WebPages.Razor.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Newtonsoft.Json.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Antlr3.Runtime.pdb
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\EntityFramework.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\pl\System.Web.Razor.resources.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\obj\Debug\Aplikacja.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Migrations.AddGuidsTable.resources
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Magick.NET-Q8-AnyCPU.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\OpenWaves.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\OpenWaves.ImageTransformations.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\OpenWaves.ImageTransformations.Web.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\OpenWaves.Web.dll
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\Magick.NET-Q8-AnyCPU.xml
+C:\Users\adria\Desktop\Aplikacja\Aplikacja\bin\System.Drawing.Common.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Aplikacja.dll.config
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Aplikacja.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Aplikacja.pdb
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\csc.exe
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\csc.exe.config
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\csc.rsp
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\csi.exe
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\csi.exe.config
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\csi.rsp
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.AppContext.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Console.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.IO.Compression.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.IO.Pipes.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Security.Claims.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.ValueTuple.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\vbc.exe
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\vbc.exe.config
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\vbc.rsp
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\VBCSCompiler.exe
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Antlr3.Runtime.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\EntityFramework.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Magick.NET-Q8-AnyCPU.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Newtonsoft.Json.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\OpenWaves.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\OpenWaves.ImageTransformations.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\OpenWaves.ImageTransformations.Web.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\OpenWaves.Web.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Owin.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Rotativa.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Drawing.Common.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.Helpers.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.Mvc.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.Optimization.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.Razor.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.WebPages.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.WebPages.Razor.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\WebGrease.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Magick.NET-Q8-AnyCPU.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.Helpers.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.Mvc.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.Optimization.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.Razor.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.WebPages.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\System.Web.WebPages.Razor.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Newtonsoft.Json.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Antlr3.Runtime.pdb
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\EntityFramework.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\pl\System.Web.Razor.resources.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Migrations.AddGuidsTable.resources
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\obj\Debug\Aplikacja.dll
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\adria\Desktop\Ostateczne\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Migrations.AddOpinionsTable.resources
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Aplikacja.dll.config
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Aplikacja.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Aplikacja.pdb
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csc.exe
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csc.exe.config
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csc.rsp
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csi.exe
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csi.exe.config
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csi.rsp
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.AppContext.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Console.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\vbc.exe
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\vbc.exe.config
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\vbc.rsp
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Antlr3.Runtime.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\EntityFramework.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Magick.NET-Q8-AnyCPU.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Newtonsoft.Json.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\OpenWaves.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\OpenWaves.ImageTransformations.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\OpenWaves.ImageTransformations.Web.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\OpenWaves.Web.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Owin.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Rotativa.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Drawing.Common.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Helpers.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Mvc.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Optimization.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Razor.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\WebGrease.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Magick.NET-Q8-AnyCPU.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Helpers.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Mvc.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Optimization.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Razor.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Newtonsoft.Json.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Antlr3.Runtime.pdb
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\EntityFramework.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csprojAssemblyReference.cache
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Migrations.AddGuidsTable.resources
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Migrations.AddOpinionsTable.resources
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.dll
+C:\Users\Lukasz\Desktop\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Aplikacja.dll.config
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Aplikacja.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Aplikacja.pdb
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csc.exe
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csc.exe.config
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csc.rsp
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csi.exe
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csi.exe.config
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csi.rsp
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.AppContext.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Console.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.Compression.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.Pipes.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Claims.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.ValueTuple.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\vbc.exe
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\vbc.exe.config
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\vbc.rsp
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\VBCSCompiler.exe
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Antlr3.Runtime.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\EntityFramework.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Magick.NET-Q8-AnyCPU.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Newtonsoft.Json.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\OpenWaves.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\OpenWaves.ImageTransformations.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\OpenWaves.ImageTransformations.Web.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\OpenWaves.Web.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Owin.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Rotativa.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Drawing.Common.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Helpers.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Mvc.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Optimization.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Razor.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.Razor.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\WebGrease.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Magick.NET-Q8-AnyCPU.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Helpers.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Mvc.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Optimization.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Razor.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.Razor.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Newtonsoft.Json.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Antlr3.Runtime.pdb
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\EntityFramework.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.Razor.resources.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csprojAssemblyReference.cache
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Migrations.AddGuidsTable.resources
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Migrations.AddOpinionsTable.resources
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.dll
+C:\Users\adria\Desktop\Nowy folder (10)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.pdb
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Aplikacja.dll.config
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Aplikacja.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Aplikacja.pdb
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csc.exe
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csc.exe.config
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csc.rsp
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csi.exe
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csi.exe.config
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\csi.rsp
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.AppContext.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Console.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\vbc.exe
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\vbc.exe.config
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\vbc.rsp
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Antlr3.Runtime.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\EntityFramework.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Magick.NET-Q8-AnyCPU.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Newtonsoft.Json.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\OpenWaves.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\OpenWaves.ImageTransformations.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\OpenWaves.ImageTransformations.Web.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\OpenWaves.Web.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Owin.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Rotativa.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Drawing.Common.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Helpers.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Mvc.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Optimization.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Razor.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\WebGrease.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Magick.NET-Q8-AnyCPU.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Helpers.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Mvc.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Optimization.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.Razor.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Newtonsoft.Json.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Antlr3.Runtime.pdb
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\EntityFramework.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\EntityFramework.SqlServer.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csprojAssemblyReference.cache
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Migrations.AddGuidsTable.resources
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.Migrations.AddOpinionsTable.resources
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.GenerateResource.cache
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.csproj.CopyComplete
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.dll
+C:\Users\Lukasz\Desktop\Aplikacja (1)\Aplikacja\Aplikacja\Aplikacja\obj\Debug\Aplikacja.pdb

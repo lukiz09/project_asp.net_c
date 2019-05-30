@@ -1,0 +1,86 @@
+﻿<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+
+<div class="jumbotron jumbotron-sm">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-lg-12">
+                <center>
+                    <h1 class="h1">
+                        Formularz kontaktowy
+                    </h1>
+                </center>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="well well-sm">
+                <form>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="name">
+                                    Imię
+                                </label>
+                                <input type="text" class="form-control" id="name" placeholder="Podaj imię" required="required" />
+                            </div>
+                            <div class="form-group">
+                                <label for="email">
+                                    Adres email
+                                </label>
+                                <div class="input-group">
+                                    <span class="input-group-addon">
+                                        <span class="glyphicon glyphicon-envelope"></span>
+                                    </span>
+                                    <input type="email" class="form-control" id="email" placeholder="Podaj email" required="required" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="subject">
+                                    Temat
+                                </label>
+                                <select id="subject" name="subject" class="form-control" required="required">
+                                    <option value="na" selected="">Wybierz jedno:</option>
+                                    <option value="service">Ogólna obsługa</option>
+                                    <option value="suggestions">Sugestie</option>
+                                    <option value="product">Wsparcie techniczne</option>
+                                    <option value="product">Zarządzanie kontem</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="name">
+                                    Wiadomość
+                                </label>
+                                <textarea name="message" id="message" class="form-control" rows="9" cols="25" required="required"
+                                          placeholder="Treść wiadomości"></textarea>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <button type="submit" class="btn btn-primary pull-right" id="btnContactUs">
+                                Wyślij wiadomość
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <form>
+                <span class="glyphicon glyphicon-globe"></span> Siedziba
+                <address>
+                    <strong>Poradniki.pl</strong><br>
+                    Grunwaldzka 32,<br>
+                    11-100 Olsztyn, Polska<br>
+                    <label title="Telefon">
+                        Nr:
+                    </label>
+                    123-123-123
+                </address>
+            </form>
+        </div>
+    </div>
+</div>

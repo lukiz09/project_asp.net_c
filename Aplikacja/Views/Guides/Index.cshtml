@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Aplikacja.Models.Guide>
+@{
+    /**/
+
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2></h2>
+<!--Pętla przechodząca kolejno przez wszystkie przekazane poradniki-->
+@foreach (var guide in Model)
+{
+    <div class="container">
+        <div class="jumbotron">
+            <center>
+                @{ var imagePath = "";
+                    imagePath = @"/UploadedFiles/" + @guide.Filename;
+                }
+
+                <img src=@imagePath class="img-rounded img-fluid container" alt=@guide.Title>
+                <h1>@Html.ActionLink(@guide.Title, "Show", new { id = guide.Id })</h1>
+                <p>
+                    @guide.AuthName @guide.EnrollmentDate
+                </p>
+            </center>
+        </div>
+    </div>
+}

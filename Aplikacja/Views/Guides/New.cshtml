@@ -1,0 +1,28 @@
+﻿@model Aplikacja.Models.Guide
+<!--wyżej połączenie z bazą, z przesyłanymi danymi-->
+@{
+    ViewBag.Title = "New";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!--wyżej połączenie z layout-->
+
+<div class="jumbotron jumbotron-sm">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-lg-12">
+                <center>
+                    <h1 class="h1">
+                        Stwórz poradnik
+                    </h1>
+                </center>
+            </div>
+        </div>
+    </div>
+</div>
+<center>
+    <!--Form dla asp.net-->
+    @using (Html.BeginForm("Add", "Guides", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        Html.RenderPartial("_GuideForm");
+    }
+</center>

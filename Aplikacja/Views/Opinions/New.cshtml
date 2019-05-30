@@ -1,0 +1,18 @@
+﻿@model Aplikacja.Models.Opinion
+@{
+    /**/
+
+    ViewBag.Title = "New";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Dodaj opinię</h2>
+
+@using (Html.BeginForm("Add", "Opinions", FormMethod.Post, new { @class = "form" }))
+{
+    <div class="form-group">
+        <label>Napisz opinię: </label>
+        @Html.TextAreaFor(m => m.Body, new { @class = "form-control", rows = 4 })
+    </div>
+    <input type="submit" class="btn btn-primary" value="Dodaj opinię" />
+}

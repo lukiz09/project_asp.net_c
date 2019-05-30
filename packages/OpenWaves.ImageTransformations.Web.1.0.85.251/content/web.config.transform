@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <system.webServer>
+        <modules>
+            <add name="ImageTransformationsModule" type="OpenWaves.ImageTransformations.Web.WebImageTransformationModule, OpenWaves.ImageTransformations.Web" preCondition="managedHandler"/>
+        </modules>
+    </system.webServer>
+
+    <system.web>
+        <pages>
+            <controls>
+                <add assembly="OpenWaves.ImageTransformations.Web" namespace="OpenWaves.ImageTransformations.Web.Controls" tagPrefix="ow" />
+            </controls>
+        </pages>
+    </system.web>
+</configuration>
